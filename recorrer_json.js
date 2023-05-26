@@ -1,3 +1,4 @@
+//este json es mas facil
 const jsonCompleto=
 {
   "roles":[
