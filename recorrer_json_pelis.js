@@ -1,3 +1,4 @@
+//que largo este json
 const json_pelis =
 {
     "info": 
